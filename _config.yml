@@ -20,8 +20,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Waterloo St.
-  - line: Kitchener, ON N2H3V5
+  - line: 无锡伊莱克电气有限公司
+  - line: 无锡市锡北汽配城二期C幢
 
 # Build settings
 markdown: kramdown
