@@ -4,10 +4,10 @@ email: kim.rick@gmail.com
 description: "Rick Kim's Portfolio"
 
 # Color settings (hex-codes without the leading hash-tag)
-# fed136
+# fed136 fec503
 color:
-  primary: 00DAFF
-  secondary: fec503 
+  primary: 	118ED0 
+  secondary: 00DAFF  
   secondary-dark: 000
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
