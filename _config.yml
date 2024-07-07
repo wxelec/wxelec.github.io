@@ -17,7 +17,10 @@ social:
     url: http://github.com/y7kim
   - title: envelope
     url: mailto:kim.rick@gmail.com
-
+# phone
+phone:
+  - line: 0510-85022773 
+  - line: 13482211596
 # Postal address (add as many lines as necessary)
 address:
   - line: 无锡伊莱克电气有限公司
