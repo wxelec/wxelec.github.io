@@ -4,6 +4,14 @@
     height: 150px; /* 设置图片的高度，例如200像素 */
     object-fit: cover; /* 保持图片的比例，但填充整个容器 */
 }
+
+.centered-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; /* 确保文本居中 */
+    width: fit-content; /* 根据内容自动调整宽度 */
+}
 </style>
 
 <!-- Examples Section -->
@@ -15,7 +23,7 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-6">
-                    <h4>上海外滩华尔道夫酒店</h4>
+                    <h4 class="centered-text">上海外滩华尔道夫酒店</h4>
                     <span class="fa-stack fa-4x">
                         <img src="img/example1.png" class="custom-image" alt="example1">
                     </span>
